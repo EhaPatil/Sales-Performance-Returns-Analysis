@@ -15,7 +15,7 @@ https://public.tableau.com/views/SalesProfitandreturnanalysis1/Dashboard1?:langu
 
 ## Dashboard Snapshot
 
-![Sales Performance & Returns Analysis Dashboard](sales_performance_dashboard.png)
+![Sales Performance & Returns Analysis Dashboard](Dashboard.png)
 
 ---
 
